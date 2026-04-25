@@ -11,11 +11,12 @@ int main(){
         } else if (i==1){
             printf("matricula: ");
         } else {
-            printf("semestre de admissão: ");
+            printf("semestre de admissão:");
         }
         
         fgets(cadastro[i], 50, stdin);
     }
+    printf("\ninformações passadas:\n");
 
     for(int i=0; i<3; i++){
         if (i==0){
