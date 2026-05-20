@@ -1,0 +1,7 @@
+- baixar o código
+- crie uma pasta no seu repositório chamada trabalho1
+- adicione os arquivos trabalho1.c trabalho1.h e corretor.c
+- compilar 
+	- gcc trabalho1.c corretor.c -o T1
+- rodar
+	- ./T1
